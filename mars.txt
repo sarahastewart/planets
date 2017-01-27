@@ -1,3 +1,4 @@
 Mars is the red planet
 It is fairly close to earth
 It's also a chocolate bar
+A new line
